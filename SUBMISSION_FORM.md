@@ -31,7 +31,7 @@
 |---|---|
 | **Repository URL** | https://github.com/[YOUR-USERNAME]/BoxOfficeIQ |
 | **Primary Branch** | `main` |
-| **Final Commit ID** | `[RUN: git rev-parse HEAD]` (e.g. `a1b2c3d4e5f6...`) |
+| **Final Commit ID** | `ba3dbda3bf116e728e1c345e5fcb4fb14c5ba123` | Production release commit |
 | **Access Permissions** | Public repository (or reviewer access granted to `recruitment@algions.com`) |
 
 ---
