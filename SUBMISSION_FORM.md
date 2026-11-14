@@ -9,10 +9,9 @@
 ### Section 1: Candidate Identification
 | Field | Value | Notes |
 |---|---|---|
-| **Full Name** | [ENTER YOUR FULL NAME] | As stated in your official application |
-| **Registration Number** | [ENTER REGISTRATION NUMBER] | Individualized invitation identifier |
-| **University / Personal Email** | [ENTER YOUR EMAIL ADDRESS] | Registered communication email |
-| **Phone / Contact** | [ENTER YOUR PHONE NUMBER] | Optional |
+| **Full Name** | Anvesh Pandey 
+| **Registration Number** | [12309659] 
+| **University / Personal Email** | [anveshpandey488@gmail.com] 
 
 ---
 
@@ -29,7 +28,7 @@
 ### Section 3: Code and Version
 | Field | Value |
 |---|---|
-| **Repository URL** | https://github.com/[YOUR-USERNAME]/BoxOfficeIQ |
+| **Repository URL** | https://github.com/anvesh9621/BoxOfficeIQ |
 | **Primary Branch** | `main` |
 | **Final Commit ID** | `ba3dbda3bf116e728e1c345e5fcb4fb14c5ba123` | Production release commit |
 | **Access Permissions** | Public repository (or reviewer access granted to `recruitment@algions.com`) |
@@ -39,7 +38,7 @@
 ### Section 4: Demonstration
 | Field | Value |
 |---|---|
-| **3–5 Minute Video Link** | [INSERT UNLISTED YOUTUBE / LOOM / DRIVE VIDEO LINK] |
+| **3–5 Minute Video Link** | [https://drive.google.com/file/d/1pR0VdZhJq3UoDY5H879n_ja1a-etES2O/view?usp=sharing] |
 | **Video Script Reference** | Complete timestamped script available at `DEMO_VIDEO_SCRIPT.md` |
 | **Live Demo URL** | Declared Local-Only Demo (FastAPI backend at `http://localhost:8000` + UI at `http://localhost:5500`) |
 | **Local Replication Time** | < 2 minutes (Automated via `tests/test_pipeline.py`) |
