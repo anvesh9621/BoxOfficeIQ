@@ -1,0 +1,42 @@
+[
+  {
+    "feature": "lag_7",
+    "mean_abs_shap": 30.058856
+  },
+  {
+    "feature": "day_of_week",
+    "mean_abs_shap": 26.302403
+  },
+  {
+    "feature": "rolling_mean_7",
+    "mean_abs_shap": 18.936823
+  },
+  {
+    "feature": "capacity_normalized",
+    "mean_abs_shap": 12.412515
+  },
+  {
+    "feature": "lag_14",
+    "mean_abs_shap": 10.533759
+  },
+  {
+    "feature": "month_cos",
+    "mean_abs_shap": 8.371818
+  },
+  {
+    "feature": "is_holiday",
+    "mean_abs_shap": 7.183084
+  },
+  {
+    "feature": "lag_1",
+    "mean_abs_shap": 6.493244
+  },
+  {
+    "feature": "month",
+    "mean_abs_shap": 5.914796
+  },
+  {
+    "feature": "dow_sin",
+    "mean_abs_shap": 5.897564
+  }
+]

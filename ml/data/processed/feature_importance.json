@@ -1,0 +1,90 @@
+[
+  {
+    "feature": "rolling_mean_7",
+    "importance": 530
+  },
+  {
+    "feature": "lag_7",
+    "importance": 522
+  },
+  {
+    "feature": "lag_14",
+    "importance": 467
+  },
+  {
+    "feature": "rolling_std_7",
+    "importance": 460
+  },
+  {
+    "feature": "lag_1",
+    "importance": 449
+  },
+  {
+    "feature": "day_of_month",
+    "importance": 400
+  },
+  {
+    "feature": "online_ratio",
+    "importance": 370
+  },
+  {
+    "feature": "rolling_mean_14",
+    "importance": 365
+  },
+  {
+    "feature": "week_of_year",
+    "importance": 279
+  },
+  {
+    "feature": "capacity_normalized",
+    "importance": 279
+  },
+  {
+    "feature": "days_to_nearest_holiday",
+    "importance": 243
+  },
+  {
+    "feature": "day_of_week",
+    "importance": 194
+  },
+  {
+    "feature": "month",
+    "importance": 190
+  },
+  {
+    "feature": "month_cos",
+    "importance": 167
+  },
+  {
+    "feature": "is_holiday",
+    "importance": 135
+  },
+  {
+    "feature": "dow_sin",
+    "importance": 116
+  },
+  {
+    "feature": "month_sin",
+    "importance": 114
+  },
+  {
+    "feature": "theatre_type_encoded",
+    "importance": 78
+  },
+  {
+    "feature": "capacity",
+    "importance": 69
+  },
+  {
+    "feature": "dow_cos",
+    "importance": 49
+  },
+  {
+    "feature": "quarter",
+    "importance": 10
+  },
+  {
+    "feature": "is_weekend",
+    "importance": 6
+  }
+]

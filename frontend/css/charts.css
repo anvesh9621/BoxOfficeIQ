@@ -1,0 +1,104 @@
+/* ==========================================================================
+   BoxOfficeIQ — Chart Specific Stylesheet & Data Presentation
+   ========================================================================== */
+
+.chart-wrapper-card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  transition: border-color var(--duration-fast);
+}
+
+.chart-wrapper-card:hover {
+  border-color: var(--border-default);
+}
+
+.chart-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.chart-title-wrap {
+  display: flex;
+  flex-direction: column;
+}
+
+.chart-title {
+  font-size: 0.92rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--color-text-high);
+}
+
+.chart-subtitle {
+  font-size: 0.74rem;
+  color: var(--color-text-muted);
+  margin-top: 2px;
+}
+
+.chart-container {
+  position: relative;
+  width: 100%;
+  height: 310px;
+}
+
+.chart-container--sm {
+  height: 220px;
+}
+
+.chart-container--md {
+  height: 280px;
+}
+
+.chart-container--lg {
+  height: 380px;
+}
+
+.chart-container--auto {
+  height: 100%;
+  min-height: 260px;
+}
+
+/* Custom Interactive Legend */
+.chart-legend-custom {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+.legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.74rem;
+  color: var(--color-text-body);
+  user-select: none;
+}
+
+.legend-color {
+  width: 8px;
+  height: 8px;
+  border-radius: var(--radius-xs);
+  flex-shrink: 0;
+}
+
+.legend-line {
+  width: 14px;
+  height: 2px;
+  border-radius: 1px;
+  flex-shrink: 0;
+}
+
+.legend-line--dashed {
+  border-top: 2px dashed;
+  background: transparent !important;
+  height: 0;
+}

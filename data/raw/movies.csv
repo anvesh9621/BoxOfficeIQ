@@ -1,0 +1,51 @@
+movie_id,title,genre,release_date,runtime,popularity,avg_rating,vote_count,overview
+1,Kalki 2898 AD,Action,2021-10-24,130,76.33,8.5,103047,An epic saga set in a dystopian future where civilisations collide.
+2,Pushpa: The Rise,Sci-Fi,2024-10-07,138,70.58,8.7,44965,A heartwarming tale of family bonds tested by extraordinary circumstances.
+3,RRR,Thriller,2023-12-24,99,70.85,6.8,6493,A gripping thriller that keeps you on the edge of your seat until the last frame.
+4,Brahmastra,Drama,2021-09-20,181,52.42,6.9,137335,An action-packed adventure featuring stunning visuals and breathtaking stunts.
+5,Pathaan,Drama,2024-02-29,151,60.32,7.4,65469,A comedy of errors that unfolds across multiple cities in hilarious fashion.
+6,Jawan,Thriller,2022-01-27,103,51.36,7.8,23422,A romantic journey through monsoon-drenched landscapes and unspoken emotions.
+7,Animal,Adventure,2022-01-11,100,46.7,8.9,41256,A biographical drama recounting the struggles of an unsung national hero.
+8,Dunki,Crime,2022-04-17,173,33.47,8.6,18795,A supernatural horror that blends folklore with modern psychological terror.
+9,Tiger 3,Crime,2024-07-02,98,42.4,6.3,123164,A sci-fi spectacle exploring the boundaries of artificial intelligence and humanity.
+10,Fighter,Adventure,2021-02-06,181,45.88,5.7,121601,A crime thriller set in the underbelly of a rapidly changing megacity.
+11,Yodha,Crime,2024-02-26,118,62.89,8.9,45164,An epic saga set in a dystopian future where civilisations collide.
+12,Bade Miyan Chote Miyan,Biography,2024-03-22,107,63.96,6.1,12642,A heartwarming tale of family bonds tested by extraordinary circumstances.
+13,Maidaan,Fantasy,2022-01-09,99,57.45,6.1,148558,A gripping thriller that keeps you on the edge of your seat until the last frame.
+14,Crew,Thriller,2024-05-15,133,64.77,6.8,72865,An action-packed adventure featuring stunning visuals and breathtaking stunts.
+15,Srikanth,Biography,2021-03-15,172,93.51,8.1,63205,A comedy of errors that unfolds across multiple cities in hilarious fashion.
+16,GOAT,Comedy,2022-09-19,138,63.13,6.6,112425,A romantic journey through monsoon-drenched landscapes and unspoken emotions.
+17,Kalki Chronicles,Adventure,2021-09-15,106,62.34,7.4,81370,A biographical drama recounting the struggles of an unsung national hero.
+18,Stree 2,Fantasy,2022-08-03,111,92.81,6.9,125788,A supernatural horror that blends folklore with modern psychological terror.
+19,Bhool Bhulaiyaa 3,Thriller,2023-09-21,152,57.27,6.7,139547,A sci-fi spectacle exploring the boundaries of artificial intelligence and humanity.
+20,Singham Returns,Adventure,2024-02-05,116,57.56,7.9,57865,A crime thriller set in the underbelly of a rapidly changing megacity.
+21,Welcome 3,Thriller,2023-12-12,176,50.54,6.8,128999,An epic saga set in a dystopian future where civilisations collide.
+22,Merry Christmas,Biography,2022-03-06,183,56.68,7.6,5460,A heartwarming tale of family bonds tested by extraordinary circumstances.
+23,Aa Okkati Adakku,Crime,2022-09-21,114,78.18,8.5,87663,A gripping thriller that keeps you on the edge of your seat until the last frame.
+24,Devara,Action,2023-12-22,158,71.37,6.3,66966,An action-packed adventure featuring stunning visuals and breathtaking stunts.
+25,Lucky Baskhar,Animation,2023-05-06,173,69.04,7.5,70394,A comedy of errors that unfolds across multiple cities in hilarious fashion.
+26,The Sabarmati Report,Sci-Fi,2022-06-07,168,46.6,6.6,140721,A romantic journey through monsoon-drenched landscapes and unspoken emotions.
+27,Vettaiyan,Romance,2022-06-23,95,88.54,8.0,104235,A biographical drama recounting the struggles of an unsung national hero.
+28,Kanguva,Animation,2021-10-12,110,41.24,7.8,83982,A supernatural horror that blends folklore with modern psychological terror.
+29,Amaran,Thriller,2024-11-06,155,90.57,7.3,28765,A sci-fi spectacle exploring the boundaries of artificial intelligence and humanity.
+30,Singham Again,Drama,2024-05-28,139,58.13,8.6,5700,A crime thriller set in the underbelly of a rapidly changing megacity.
+31,Pushpa 2 The Rule,Romance,2024-02-21,164,94.18,7.5,130380,An epic saga set in a dystopian future where civilisations collide.
+32,Deva,Biography,2023-10-24,139,90.42,5.7,25340,A heartwarming tale of family bonds tested by extraordinary circumstances.
+33,Sky Force,Sci-Fi,2021-04-08,119,35.55,7.1,137414,A gripping thriller that keeps you on the edge of your seat until the last frame.
+34,Emergency,Sci-Fi,2024-02-15,132,56.42,6.8,36427,An action-packed adventure featuring stunning visuals and breathtaking stunts.
+35,Chhaava,Action,2021-04-10,112,61.4,6.8,142536,A comedy of errors that unfolds across multiple cities in hilarious fashion.
+36,Fateh,Adventure,2023-08-04,112,75.31,7.1,131156,A romantic journey through monsoon-drenched landscapes and unspoken emotions.
+37,Azaad,Action,2022-12-10,149,76.49,5.6,109120,A biographical drama recounting the struggles of an unsung national hero.
+38,Game Changer,Thriller,2022-12-30,134,75.81,7.0,26198,A supernatural horror that blends folklore with modern psychological terror.
+39,Daaku Maharaaj,Romance,2023-04-10,136,79.21,5.7,96630,A sci-fi spectacle exploring the boundaries of artificial intelligence and humanity.
+40,Sankranthiki Vastunnam,Romance,2022-09-25,114,90.42,5.9,6473,A crime thriller set in the underbelly of a rapidly changing megacity.
+41,Infinity,Drama,2023-10-16,166,47.23,7.1,97395,An epic saga set in a dystopian future where civilisations collide.
+42,Nexus,Biography,2021-10-17,167,71.34,9.0,36684,A heartwarming tale of family bonds tested by extraordinary circumstances.
+43,Dark Matter,Fantasy,2022-05-19,152,57.59,7.8,16620,A gripping thriller that keeps you on the edge of your seat until the last frame.
+44,Rising Sun,Biography,2023-01-05,124,90.59,6.5,148461,An action-packed adventure featuring stunning visuals and breathtaking stunts.
+45,Storm Breaker,Romance,2024-05-17,129,84.63,8.6,70056,A comedy of errors that unfolds across multiple cities in hilarious fashion.
+46,Crimson Peak,Animation,2023-11-05,179,31.9,8.8,60233,A romantic journey through monsoon-drenched landscapes and unspoken emotions.
+47,The Last Stand,Fantasy,2024-05-25,125,49.33,7.2,2969,A biographical drama recounting the struggles of an unsung national hero.
+48,Echoes of Tomorrow,Horror,2022-12-01,105,66.81,7.3,104670,A supernatural horror that blends folklore with modern psychological terror.
+49,Silent Thunder,Thriller,2021-03-15,163,49.93,6.3,5419,A sci-fi spectacle exploring the boundaries of artificial intelligence and humanity.
+50,Phantom City,Adventure,2024-02-19,124,63.06,6.4,43986,A crime thriller set in the underbelly of a rapidly changing megacity.

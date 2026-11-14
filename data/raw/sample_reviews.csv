@@ -1,0 +1,501 @@
+review_id,movie_id,review_text,label
+1,39,"Despite a big budget, the film felt hollow and emotionally empty. Very disappointing.",negative
+2,25,Powerful storytelling with nuanced characters. This is what cinema should be. Watch it on the big screen.,positive
+3,8,The pacing was unbearably slow and the climax was a complete letdown.,negative
+4,22,Superb production values. The sets and costumes transported me to another era. Watch it on the big screen.,positive
+5,36,Brilliant screenplay backed by exceptional acting. This movie deserves every award.,positive
+6,50,The pacing was unbearably slow and the climax was a complete letdown. Skip this one.,negative
+7,46,Predictable from the first scene. No surprises and no emotional depth. Skip this one.,negative
+8,6,Brilliant screenplay backed by exceptional acting. This movie deserves every award. Highly recommended!,positive
+9,46,The director has outdone themselves this time. Every frame is a work of art. Watch it on the big screen.,positive
+10,47,Hugely disappointing. The trailer promised much more than the movie delivered. Expected so much more.,negative
+11,22,Outstanding film that leaves a lasting impression. Already planning to watch it again. Do not miss it!,positive
+12,17,The soundtrack is phenomenal and the choreography in the dance sequences is unmatched. Do not miss it!,positive
+13,25,Excessive CGI could not hide the weak story and thin characters. Very disappointing.,negative
+14,25,Brilliant screenplay backed by exceptional acting. This movie deserves every award. A cinematic treat.,positive
+15,45,The plot was full of holes and the acting felt forced and unconvincing. Save your money.,negative
+16,46,The climax was rushed and unsatisfying after hours of tedious build-up. Very disappointing.,negative
+17,26,Poor screenplay with cardboard characters who had zero development throughout. Skip this one.,negative
+18,35,Gripping plot with unexpected twists. The climax was absolutely mind-blowing. A cinematic treat.,positive
+19,46,The dialogue was cringe-worthy and the comedy fell completely flat. Not worth the ticket price.,negative
+20,15,The climax was rushed and unsatisfying after hours of tedious build-up.,negative
+21,23,Hugely disappointing. The trailer promised much more than the movie delivered. Expected so much more.,negative
+22,9,The plot was full of holes and the acting felt forced and unconvincing. Expected so much more.,negative
+23,25,The lead performance was wooden and the supporting cast was forgettable. Not worth the ticket price.,negative
+24,19,The dialogue was cringe-worthy and the comedy fell completely flat. Skip this one.,negative
+25,25,The script is tightly written with no dull moments. Bravo to the entire team. Take the whole family.,positive
+26,35,"Despite a big budget, the film felt hollow and emotionally empty. Not worth the ticket price.",negative
+27,44,Predictable from the first scene. No surprises and no emotional depth. Not worth the ticket price.,negative
+28,15,The chemistry between the lead actors was electric. A joy to watch throughout. Watch it on the big screen.,positive
+29,40,One of the best movies I have seen in years. The story was engaging from start to finish. Do not miss it!,positive
+30,14,The pacing was unbearably slow and the climax was a complete letdown. Expected so much more.,negative
+31,11,Poor screenplay with cardboard characters who had zero development throughout. Expected so much more.,negative
+32,45,The dialogue was cringe-worthy and the comedy fell completely flat. Skip this one.,negative
+33,7,The lead performance was wooden and the supporting cast was forgettable. Very disappointing.,negative
+34,37,Powerful storytelling with nuanced characters. This is what cinema should be.,positive
+35,39,The cinematography was breathtaking and the music score perfectly complemented every scene. Watch it on the big screen.,positive
+36,27,Over-hyped and under-delivered. The special effects looked cheap and rushed. Skip this one.,negative
+37,11,Overly melodramatic with scenes that dragged on way past their welcome. Very disappointing.,negative
+38,38,Gripping plot with unexpected twists. The climax was absolutely mind-blowing. Take the whole family.,positive
+39,7,Outstanding film that leaves a lasting impression. Already planning to watch it again.,positive
+40,8,An incredible cinematic experience. The lead actor delivered a career-best performance. Watch it on the big screen.,positive
+41,43,Yet another formulaic entertainer with zero originality or creativity. Skip this one.,negative
+42,41,Powerful storytelling with nuanced characters. This is what cinema should be.,positive
+43,32,The first half showed promise but the second half was an absolute disaster. Save your money.,negative
+44,37,I went in with low expectations but came out thoroughly impressed. A hidden gem! Highly recommended!,positive
+45,39,Powerful storytelling with nuanced characters. This is what cinema should be. Do not miss it!,positive
+46,24,"Emotional, engaging, and thoroughly entertaining. A must-watch for the whole family. Watch it on the big screen.",positive
+47,31,Absolutely loved every minute of this film! The performances were stellar and the direction was top-notch.,positive
+48,50,The chemistry between the lead actors was electric. A joy to watch throughout. Highly recommended!,positive
+49,25,Poor screenplay with cardboard characters who had zero development throughout. Skip this one.,negative
+50,29,The cinematography was breathtaking and the music score perfectly complemented every scene. A cinematic treat.,positive
+51,26,A cinematic masterpiece that redefines Indian filmmaking. Truly world-class.,positive
+52,14,The cinematography was breathtaking and the music score perfectly complemented every scene.,positive
+53,2,The chemistry between the lead actors was electric. A joy to watch throughout. Highly recommended!,positive
+54,45,Hugely disappointing. The trailer promised much more than the movie delivered. Expected so much more.,negative
+55,1,Powerful storytelling with nuanced characters. This is what cinema should be. Do not miss it!,positive
+56,24,Superb production values. The sets and costumes transported me to another era.,positive
+57,37,The director has outdone themselves this time. Every frame is a work of art. Watch it on the big screen.,positive
+58,49,The director has created something truly special. This film will stand the test of time. Watch it on the big screen.,positive
+59,27,Brilliant screenplay backed by exceptional acting. This movie deserves every award. Highly recommended!,positive
+60,22,The director has created something truly special. This film will stand the test of time.,positive
+61,2,The pacing was unbearably slow and the climax was a complete letdown. Skip this one.,negative
+62,43,Too long and too loud. Sensory overload with no substance underneath. Skip this one.,negative
+63,12,The logic gaps were infuriating. The audience deserves better. Expected so much more.,negative
+64,37,The logic gaps were infuriating. The audience deserves better. Not worth the ticket price.,negative
+65,23,Remarkable performances all around. The supporting cast was equally impressive. Take the whole family.,positive
+66,31,Remarkable performances all around. The supporting cast was equally impressive.,positive
+67,17,The plot was full of holes and the acting felt forced and unconvincing. Very disappointing.,negative
+68,2,The visual effects were jaw-dropping and the action sequences were phenomenal. Take the whole family.,positive
+69,42,The director has created something truly special. This film will stand the test of time. Take the whole family.,positive
+70,22,The plot was full of holes and the acting felt forced and unconvincing. Expected so much more.,negative
+71,9,Wasted two and a half hours of my life. The story made no sense whatsoever.,negative
+72,49,"Despite a big budget, the film felt hollow and emotionally empty. Not worth the ticket price.",negative
+73,33,Predictable from the first scene. No surprises and no emotional depth. Skip this one.,negative
+74,14,Hugely disappointing. The trailer promised much more than the movie delivered.,negative
+75,46,Predictable from the first scene. No surprises and no emotional depth. Very disappointing.,negative
+76,19,Yet another formulaic entertainer with zero originality or creativity. Skip this one.,negative
+77,50,The climax was rushed and unsatisfying after hours of tedious build-up. Save your money.,negative
+78,45,Outstanding film that leaves a lasting impression. Already planning to watch it again. Watch it on the big screen.,positive
+79,11,Poor screenplay with cardboard characters who had zero development throughout. Save your money.,negative
+80,36,The first half showed promise but the second half was an absolute disaster.,negative
+81,9,The soundtrack is phenomenal and the choreography in the dance sequences is unmatched. Do not miss it!,positive
+82,8,The cinematography was breathtaking and the music score perfectly complemented every scene.,positive
+83,10,Predictable from the first scene. No surprises and no emotional depth. Skip this one.,negative
+84,29,A cinematic masterpiece that redefines Indian filmmaking. Truly world-class. Take the whole family.,positive
+85,32,"Despite a big budget, the film felt hollow and emotionally empty. Very disappointing.",negative
+86,35,Gripping plot with unexpected twists. The climax was absolutely mind-blowing. Do not miss it!,positive
+87,27,Absolutely loved every minute of this film! The performances were stellar and the direction was top-notch. Watch it on the big screen.,positive
+88,47,The pacing was unbearably slow and the climax was a complete letdown.,negative
+89,2,Wasted two and a half hours of my life. The story made no sense whatsoever.,negative
+90,26,The music was jarring and completely out of place with the narrative. Expected so much more.,negative
+91,43,"Despite a big budget, the film felt hollow and emotionally empty. Not worth the ticket price.",negative
+92,10,Wasted two and a half hours of my life. The story made no sense whatsoever. Very disappointing.,negative
+93,20,Too long and too loud. Sensory overload with no substance underneath. Not worth the ticket price.,negative
+94,24,Yet another formulaic entertainer with zero originality or creativity.,negative
+95,42,The plot was full of holes and the acting felt forced and unconvincing. Not worth the ticket price.,negative
+96,49,A complete waste of a talented cast. The script let everyone down. Not worth the ticket price.,negative
+97,33,The visual effects were jaw-dropping and the action sequences were phenomenal. Take the whole family.,positive
+98,25,Superb production values. The sets and costumes transported me to another era.,positive
+99,10,The music was jarring and completely out of place with the narrative. Not worth the ticket price.,negative
+100,50,Superb production values. The sets and costumes transported me to another era. Watch it on the big screen.,positive
+101,24,Outstanding film that leaves a lasting impression. Already planning to watch it again. A cinematic treat.,positive
+102,12,Over-hyped and under-delivered. The special effects looked cheap and rushed. Save your money.,negative
+103,2,Remarkable performances all around. The supporting cast was equally impressive. Take the whole family.,positive
+104,1,Too long and too loud. Sensory overload with no substance underneath. Save your money.,negative
+105,45,Wasted two and a half hours of my life. The story made no sense whatsoever. Not worth the ticket price.,negative
+106,40,The script is tightly written with no dull moments. Bravo to the entire team. Take the whole family.,positive
+107,13,"Despite a big budget, the film felt hollow and emotionally empty. Not worth the ticket price.",negative
+108,36,Outstanding film that leaves a lasting impression. Already planning to watch it again. Watch it on the big screen.,positive
+109,30,The plot was full of holes and the acting felt forced and unconvincing. Save your money.,negative
+110,26,A cinematic masterpiece that redefines Indian filmmaking. Truly world-class. Highly recommended!,positive
+111,4,"Emotional, engaging, and thoroughly entertaining. A must-watch for the whole family. Take the whole family.",positive
+112,46,The logic gaps were infuriating. The audience deserves better. Expected so much more.,negative
+113,1,Poor screenplay with cardboard characters who had zero development throughout. Skip this one.,negative
+114,16,I went in with low expectations but came out thoroughly impressed. A hidden gem! Watch it on the big screen.,positive
+115,24,Yet another formulaic entertainer with zero originality or creativity. Very disappointing.,negative
+116,34,"Despite a big budget, the film felt hollow and emotionally empty. Very disappointing.",negative
+117,28,A perfect blend of emotion and entertainment. Cried and laughed in equal measure. Highly recommended!,positive
+118,28,"Emotional, engaging, and thoroughly entertaining. A must-watch for the whole family. Highly recommended!",positive
+119,4,"Emotional, engaging, and thoroughly entertaining. A must-watch for the whole family. Highly recommended!",positive
+120,21,The cinematography was breathtaking and the music score perfectly complemented every scene.,positive
+121,8,Absolutely loved every minute of this film! The performances were stellar and the direction was top-notch. Watch it on the big screen.,positive
+122,9,The script is tightly written with no dull moments. Bravo to the entire team.,positive
+123,32,The lead performance was wooden and the supporting cast was forgettable. Very disappointing.,negative
+124,48,Powerful storytelling with nuanced characters. This is what cinema should be.,positive
+125,23,The chemistry between the lead actors was electric. A joy to watch throughout. Watch it on the big screen.,positive
+126,42,A perfect blend of emotion and entertainment. Cried and laughed in equal measure. Do not miss it!,positive
+127,33,Predictable from the first scene. No surprises and no emotional depth.,negative
+128,12,An incredible cinematic experience. The lead actor delivered a career-best performance. Highly recommended!,positive
+129,30,The visual effects were jaw-dropping and the action sequences were phenomenal. Do not miss it!,positive
+130,45,Overly melodramatic with scenes that dragged on way past their welcome. Expected so much more.,negative
+131,6,The chemistry between the lead actors was electric. A joy to watch throughout. Watch it on the big screen.,positive
+132,14,Powerful storytelling with nuanced characters. This is what cinema should be. Watch it on the big screen.,positive
+133,6,Hugely disappointing. The trailer promised much more than the movie delivered. Not worth the ticket price.,negative
+134,48,The plot was full of holes and the acting felt forced and unconvincing. Very disappointing.,negative
+135,37,Absolutely loved every minute of this film! The performances were stellar and the direction was top-notch. A cinematic treat.,positive
+136,13,"Emotional, engaging, and thoroughly entertaining. A must-watch for the whole family. A cinematic treat.",positive
+137,46,A cinematic masterpiece that redefines Indian filmmaking. Truly world-class.,positive
+138,6,Brilliant screenplay backed by exceptional acting. This movie deserves every award. Highly recommended!,positive
+139,4,"Emotional, engaging, and thoroughly entertaining. A must-watch for the whole family. Watch it on the big screen.",positive
+140,38,The first half showed promise but the second half was an absolute disaster. Skip this one.,negative
+141,22,The visual effects were jaw-dropping and the action sequences were phenomenal. A cinematic treat.,positive
+142,24,The director has outdone themselves this time. Every frame is a work of art. Watch it on the big screen.,positive
+143,34,A mess of a movie that could not decide what it wanted to be. Skip this one.,negative
+144,21,The soundtrack is phenomenal and the choreography in the dance sequences is unmatched. Do not miss it!,positive
+145,41,Over-hyped and under-delivered. The special effects looked cheap and rushed. Not worth the ticket price.,negative
+146,29,Excessive CGI could not hide the weak story and thin characters. Skip this one.,negative
+147,7,An incredible cinematic experience. The lead actor delivered a career-best performance. Watch it on the big screen.,positive
+148,43,The cinematography was breathtaking and the music score perfectly complemented every scene. Watch it on the big screen.,positive
+149,39,"Despite a big budget, the film felt hollow and emotionally empty. Skip this one.",negative
+150,21,Excessive CGI could not hide the weak story and thin characters.,negative
+151,42,I went in with low expectations but came out thoroughly impressed. A hidden gem! Watch it on the big screen.,positive
+152,47,The script is tightly written with no dull moments. Bravo to the entire team. Do not miss it!,positive
+153,11,I went in with low expectations but came out thoroughly impressed. A hidden gem! Do not miss it!,positive
+154,35,The script is tightly written with no dull moments. Bravo to the entire team. Do not miss it!,positive
+155,38,Too long and too loud. Sensory overload with no substance underneath.,negative
+156,11,Predictable from the first scene. No surprises and no emotional depth. Expected so much more.,negative
+157,42,An incredible cinematic experience. The lead actor delivered a career-best performance. Do not miss it!,positive
+158,11,The director has created something truly special. This film will stand the test of time. A cinematic treat.,positive
+159,28,The first half showed promise but the second half was an absolute disaster. Skip this one.,negative
+160,17,Absolutely loved every minute of this film! The performances were stellar and the direction was top-notch. Do not miss it!,positive
+161,24,Gripping plot with unexpected twists. The climax was absolutely mind-blowing. Highly recommended!,positive
+162,1,The music was jarring and completely out of place with the narrative. Skip this one.,negative
+163,33,The climax was rushed and unsatisfying after hours of tedious build-up. Not worth the ticket price.,negative
+164,50,Outstanding film that leaves a lasting impression. Already planning to watch it again. Highly recommended!,positive
+165,23,Predictable from the first scene. No surprises and no emotional depth. Not worth the ticket price.,negative
+166,20,The plot was full of holes and the acting felt forced and unconvincing. Not worth the ticket price.,negative
+167,23,The visual effects were jaw-dropping and the action sequences were phenomenal. A cinematic treat.,positive
+168,14,A perfect blend of emotion and entertainment. Cried and laughed in equal measure. Take the whole family.,positive
+169,23,Over-hyped and under-delivered. The special effects looked cheap and rushed. Save your money.,negative
+170,45,The director has outdone themselves this time. Every frame is a work of art. Take the whole family.,positive
+171,11,"Emotional, engaging, and thoroughly entertaining. A must-watch for the whole family.",positive
+172,45,"Emotional, engaging, and thoroughly entertaining. A must-watch for the whole family. A cinematic treat.",positive
+173,26,Overly melodramatic with scenes that dragged on way past their welcome. Not worth the ticket price.,negative
+174,40,The director has created something truly special. This film will stand the test of time.,positive
+175,23,The soundtrack is phenomenal and the choreography in the dance sequences is unmatched.,positive
+176,41,Superb production values. The sets and costumes transported me to another era. A cinematic treat.,positive
+177,40,Over-hyped and under-delivered. The special effects looked cheap and rushed. Save your money.,negative
+178,16,One of the best movies I have seen in years. The story was engaging from start to finish. Highly recommended!,positive
+179,11,Brilliant screenplay backed by exceptional acting. This movie deserves every award. Watch it on the big screen.,positive
+180,46,Overly melodramatic with scenes that dragged on way past their welcome. Save your money.,negative
+181,48,Hugely disappointing. The trailer promised much more than the movie delivered.,negative
+182,22,Superb production values. The sets and costumes transported me to another era. Highly recommended!,positive
+183,3,Yet another formulaic entertainer with zero originality or creativity. Very disappointing.,negative
+184,29,Poor screenplay with cardboard characters who had zero development throughout. Not worth the ticket price.,negative
+185,1,The pacing was unbearably slow and the climax was a complete letdown. Expected so much more.,negative
+186,17,One of the best movies I have seen in years. The story was engaging from start to finish. Take the whole family.,positive
+187,36,The first half showed promise but the second half was an absolute disaster. Expected so much more.,negative
+188,47,A perfect blend of emotion and entertainment. Cried and laughed in equal measure. Highly recommended!,positive
+189,35,Gripping plot with unexpected twists. The climax was absolutely mind-blowing. Watch it on the big screen.,positive
+190,48,The director has outdone themselves this time. Every frame is a work of art. A cinematic treat.,positive
+191,26,Over-hyped and under-delivered. The special effects looked cheap and rushed.,negative
+192,23,Poor screenplay with cardboard characters who had zero development throughout. Not worth the ticket price.,negative
+193,14,The lead performance was wooden and the supporting cast was forgettable.,negative
+194,23,Wasted two and a half hours of my life. The story made no sense whatsoever. Not worth the ticket price.,negative
+195,30,Outstanding film that leaves a lasting impression. Already planning to watch it again. Highly recommended!,positive
+196,45,The director has outdone themselves this time. Every frame is a work of art. A cinematic treat.,positive
+197,9,I went in with low expectations but came out thoroughly impressed. A hidden gem! Take the whole family.,positive
+198,1,A cinematic masterpiece that redefines Indian filmmaking. Truly world-class. Highly recommended!,positive
+199,31,A cinematic masterpiece that redefines Indian filmmaking. Truly world-class. A cinematic treat.,positive
+200,43,A complete waste of a talented cast. The script let everyone down. Not worth the ticket price.,negative
+201,1,A complete waste of a talented cast. The script let everyone down.,negative
+202,11,An incredible cinematic experience. The lead actor delivered a career-best performance. Watch it on the big screen.,positive
+203,17,I went in with low expectations but came out thoroughly impressed. A hidden gem! Watch it on the big screen.,positive
+204,1,I went in with low expectations but came out thoroughly impressed. A hidden gem! Do not miss it!,positive
+205,44,An incredible cinematic experience. The lead actor delivered a career-best performance.,positive
+206,50,Remarkable performances all around. The supporting cast was equally impressive. Highly recommended!,positive
+207,16,The director has outdone themselves this time. Every frame is a work of art. Watch it on the big screen.,positive
+208,25,The soundtrack is phenomenal and the choreography in the dance sequences is unmatched. Highly recommended!,positive
+209,24,The music was jarring and completely out of place with the narrative. Very disappointing.,negative
+210,10,The music was jarring and completely out of place with the narrative. Not worth the ticket price.,negative
+211,34,Hugely disappointing. The trailer promised much more than the movie delivered. Save your money.,negative
+212,10,Remarkable performances all around. The supporting cast was equally impressive. Do not miss it!,positive
+213,29,Hugely disappointing. The trailer promised much more than the movie delivered. Skip this one.,negative
+214,30,A mess of a movie that could not decide what it wanted to be. Save your money.,negative
+215,23,Poor screenplay with cardboard characters who had zero development throughout. Not worth the ticket price.,negative
+216,15,The pacing was unbearably slow and the climax was a complete letdown.,negative
+217,18,A mess of a movie that could not decide what it wanted to be. Save your money.,negative
+218,44,I went in with low expectations but came out thoroughly impressed. A hidden gem!,positive
+219,46,Over-hyped and under-delivered. The special effects looked cheap and rushed. Save your money.,negative
+220,4,The soundtrack is phenomenal and the choreography in the dance sequences is unmatched. Do not miss it!,positive
+221,24,Too long and too loud. Sensory overload with no substance underneath. Expected so much more.,negative
+222,17,The pacing was unbearably slow and the climax was a complete letdown. Save your money.,negative
+223,16,The script is tightly written with no dull moments. Bravo to the entire team. Highly recommended!,positive
+224,48,The script is tightly written with no dull moments. Bravo to the entire team. Watch it on the big screen.,positive
+225,14,Remarkable performances all around. The supporting cast was equally impressive.,positive
+226,37,Yet another formulaic entertainer with zero originality or creativity. Save your money.,negative
+227,2,Brilliant screenplay backed by exceptional acting. This movie deserves every award. Watch it on the big screen.,positive
+228,8,A mess of a movie that could not decide what it wanted to be. Not worth the ticket price.,negative
+229,23,Excessive CGI could not hide the weak story and thin characters. Not worth the ticket price.,negative
+230,32,Remarkable performances all around. The supporting cast was equally impressive. A cinematic treat.,positive
+231,37,The chemistry between the lead actors was electric. A joy to watch throughout. Take the whole family.,positive
+232,21,Outstanding film that leaves a lasting impression. Already planning to watch it again.,positive
+233,19,The dialogue was cringe-worthy and the comedy fell completely flat. Skip this one.,negative
+234,2,The visual effects were jaw-dropping and the action sequences were phenomenal. Highly recommended!,positive
+235,24,The lead performance was wooden and the supporting cast was forgettable. Expected so much more.,negative
+236,29,Excessive CGI could not hide the weak story and thin characters.,negative
+237,26,The music was jarring and completely out of place with the narrative. Skip this one.,negative
+238,43,The director has created something truly special. This film will stand the test of time. Do not miss it!,positive
+239,7,Gripping plot with unexpected twists. The climax was absolutely mind-blowing. Watch it on the big screen.,positive
+240,25,"Emotional, engaging, and thoroughly entertaining. A must-watch for the whole family. Do not miss it!",positive
+241,49,Over-hyped and under-delivered. The special effects looked cheap and rushed. Expected so much more.,negative
+242,47,Brilliant screenplay backed by exceptional acting. This movie deserves every award.,positive
+243,23,Overly melodramatic with scenes that dragged on way past their welcome. Not worth the ticket price.,negative
+244,17,Gripping plot with unexpected twists. The climax was absolutely mind-blowing.,positive
+245,22,The lead performance was wooden and the supporting cast was forgettable. Very disappointing.,negative
+246,35,An incredible cinematic experience. The lead actor delivered a career-best performance.,positive
+247,11,One of the best movies I have seen in years. The story was engaging from start to finish. Watch it on the big screen.,positive
+248,40,The director has created something truly special. This film will stand the test of time.,positive
+249,1,The pacing was unbearably slow and the climax was a complete letdown. Very disappointing.,negative
+250,47,A perfect blend of emotion and entertainment. Cried and laughed in equal measure. Watch it on the big screen.,positive
+251,36,Overly melodramatic with scenes that dragged on way past their welcome. Save your money.,negative
+252,38,The dialogue was cringe-worthy and the comedy fell completely flat. Not worth the ticket price.,negative
+253,27,The pacing was unbearably slow and the climax was a complete letdown. Expected so much more.,negative
+254,27,The director has created something truly special. This film will stand the test of time. Highly recommended!,positive
+255,25,Predictable from the first scene. No surprises and no emotional depth. Very disappointing.,negative
+256,36,The dialogue was cringe-worthy and the comedy fell completely flat.,negative
+257,13,The visual effects were jaw-dropping and the action sequences were phenomenal. Take the whole family.,positive
+258,38,Wasted two and a half hours of my life. The story made no sense whatsoever. Expected so much more.,negative
+259,47,A perfect blend of emotion and entertainment. Cried and laughed in equal measure. Watch it on the big screen.,positive
+260,11,A complete waste of a talented cast. The script let everyone down. Expected so much more.,negative
+261,43,A complete waste of a talented cast. The script let everyone down. Save your money.,negative
+262,16,An incredible cinematic experience. The lead actor delivered a career-best performance. Do not miss it!,positive
+263,29,The climax was rushed and unsatisfying after hours of tedious build-up. Expected so much more.,negative
+264,26,The script is tightly written with no dull moments. Bravo to the entire team. Take the whole family.,positive
+265,30,An incredible cinematic experience. The lead actor delivered a career-best performance. Take the whole family.,positive
+266,38,Remarkable performances all around. The supporting cast was equally impressive. Watch it on the big screen.,positive
+267,31,Too long and too loud. Sensory overload with no substance underneath. Expected so much more.,negative
+268,31,"Emotional, engaging, and thoroughly entertaining. A must-watch for the whole family. A cinematic treat.",positive
+269,45,A complete waste of a talented cast. The script let everyone down. Very disappointing.,negative
+270,12,The cinematography was breathtaking and the music score perfectly complemented every scene. A cinematic treat.,positive
+271,4,An incredible cinematic experience. The lead actor delivered a career-best performance.,positive
+272,21,The cinematography was breathtaking and the music score perfectly complemented every scene. Highly recommended!,positive
+273,13,The visual effects were jaw-dropping and the action sequences were phenomenal. Highly recommended!,positive
+274,5,The first half showed promise but the second half was an absolute disaster. Not worth the ticket price.,negative
+275,2,The music was jarring and completely out of place with the narrative. Not worth the ticket price.,negative
+276,8,The plot was full of holes and the acting felt forced and unconvincing. Expected so much more.,negative
+277,23,Excessive CGI could not hide the weak story and thin characters.,negative
+278,19,Poor screenplay with cardboard characters who had zero development throughout. Skip this one.,negative
+279,6,Yet another formulaic entertainer with zero originality or creativity. Expected so much more.,negative
+280,11,I went in with low expectations but came out thoroughly impressed. A hidden gem!,positive
+281,41,Too long and too loud. Sensory overload with no substance underneath. Expected so much more.,negative
+282,48,An incredible cinematic experience. The lead actor delivered a career-best performance. Take the whole family.,positive
+283,20,The music was jarring and completely out of place with the narrative. Very disappointing.,negative
+284,46,Remarkable performances all around. The supporting cast was equally impressive.,positive
+285,50,Outstanding film that leaves a lasting impression. Already planning to watch it again.,positive
+286,1,The lead performance was wooden and the supporting cast was forgettable. Skip this one.,negative
+287,13,Overly melodramatic with scenes that dragged on way past their welcome. Not worth the ticket price.,negative
+288,3,Yet another formulaic entertainer with zero originality or creativity. Save your money.,negative
+289,13,The dialogue was cringe-worthy and the comedy fell completely flat. Expected so much more.,negative
+290,7,The plot was full of holes and the acting felt forced and unconvincing. Expected so much more.,negative
+291,30,Poor screenplay with cardboard characters who had zero development throughout. Expected so much more.,negative
+292,9,The pacing was unbearably slow and the climax was a complete letdown.,negative
+293,16,The dialogue was cringe-worthy and the comedy fell completely flat. Expected so much more.,negative
+294,44,The lead performance was wooden and the supporting cast was forgettable. Very disappointing.,negative
+295,4,A cinematic masterpiece that redefines Indian filmmaking. Truly world-class. Take the whole family.,positive
+296,13,Remarkable performances all around. The supporting cast was equally impressive. A cinematic treat.,positive
+297,29,A complete waste of a talented cast. The script let everyone down. Very disappointing.,negative
+298,14,Wasted two and a half hours of my life. The story made no sense whatsoever.,negative
+299,49,A complete waste of a talented cast. The script let everyone down. Expected so much more.,negative
+300,1,"Despite a big budget, the film felt hollow and emotionally empty. Expected so much more.",negative
+301,49,Too long and too loud. Sensory overload with no substance underneath. Skip this one.,negative
+302,17,Powerful storytelling with nuanced characters. This is what cinema should be. Watch it on the big screen.,positive
+303,41,The plot was full of holes and the acting felt forced and unconvincing. Save your money.,negative
+304,35,Brilliant screenplay backed by exceptional acting. This movie deserves every award. A cinematic treat.,positive
+305,19,The script is tightly written with no dull moments. Bravo to the entire team.,positive
+306,15,"Emotional, engaging, and thoroughly entertaining. A must-watch for the whole family. Take the whole family.",positive
+307,23,The music was jarring and completely out of place with the narrative. Skip this one.,negative
+308,35,A cinematic masterpiece that redefines Indian filmmaking. Truly world-class. Watch it on the big screen.,positive
+309,12,Superb production values. The sets and costumes transported me to another era. Do not miss it!,positive
+310,23,Absolutely loved every minute of this film! The performances were stellar and the direction was top-notch. Do not miss it!,positive
+311,41,Overly melodramatic with scenes that dragged on way past their welcome. Very disappointing.,negative
+312,7,Brilliant screenplay backed by exceptional acting. This movie deserves every award. Watch it on the big screen.,positive
+313,12,Too long and too loud. Sensory overload with no substance underneath. Save your money.,negative
+314,45,Predictable from the first scene. No surprises and no emotional depth. Not worth the ticket price.,negative
+315,23,A perfect blend of emotion and entertainment. Cried and laughed in equal measure. Do not miss it!,positive
+316,49,The first half showed promise but the second half was an absolute disaster. Not worth the ticket price.,negative
+317,14,The plot was full of holes and the acting felt forced and unconvincing. Expected so much more.,negative
+318,45,A perfect blend of emotion and entertainment. Cried and laughed in equal measure. Do not miss it!,positive
+319,39,Hugely disappointing. The trailer promised much more than the movie delivered. Expected so much more.,negative
+320,4,The first half showed promise but the second half was an absolute disaster. Save your money.,negative
+321,5,Powerful storytelling with nuanced characters. This is what cinema should be. Take the whole family.,positive
+322,48,Wasted two and a half hours of my life. The story made no sense whatsoever. Expected so much more.,negative
+323,47,Brilliant screenplay backed by exceptional acting. This movie deserves every award. Take the whole family.,positive
+324,6,The lead performance was wooden and the supporting cast was forgettable. Skip this one.,negative
+325,7,I went in with low expectations but came out thoroughly impressed. A hidden gem! Do not miss it!,positive
+326,26,The logic gaps were infuriating. The audience deserves better. Very disappointing.,negative
+327,26,I went in with low expectations but came out thoroughly impressed. A hidden gem! Do not miss it!,positive
+328,50,The cinematography was breathtaking and the music score perfectly complemented every scene. A cinematic treat.,positive
+329,21,The visual effects were jaw-dropping and the action sequences were phenomenal. Do not miss it!,positive
+330,8,The logic gaps were infuriating. The audience deserves better. Not worth the ticket price.,negative
+331,6,Remarkable performances all around. The supporting cast was equally impressive. Do not miss it!,positive
+332,32,A cinematic masterpiece that redefines Indian filmmaking. Truly world-class. Highly recommended!,positive
+333,43,Superb production values. The sets and costumes transported me to another era. Do not miss it!,positive
+334,8,The director has outdone themselves this time. Every frame is a work of art. Take the whole family.,positive
+335,35,Gripping plot with unexpected twists. The climax was absolutely mind-blowing. Highly recommended!,positive
+336,43,The cinematography was breathtaking and the music score perfectly complemented every scene.,positive
+337,19,The music was jarring and completely out of place with the narrative. Very disappointing.,negative
+338,7,Too long and too loud. Sensory overload with no substance underneath. Skip this one.,negative
+339,46,One of the best movies I have seen in years. The story was engaging from start to finish. Highly recommended!,positive
+340,22,Superb production values. The sets and costumes transported me to another era. Take the whole family.,positive
+341,30,The chemistry between the lead actors was electric. A joy to watch throughout. Highly recommended!,positive
+342,50,Absolutely loved every minute of this film! The performances were stellar and the direction was top-notch. Do not miss it!,positive
+343,38,Yet another formulaic entertainer with zero originality or creativity. Save your money.,negative
+344,10,The music was jarring and completely out of place with the narrative. Very disappointing.,negative
+345,38,The director has created something truly special. This film will stand the test of time. Highly recommended!,positive
+346,38,One of the best movies I have seen in years. The story was engaging from start to finish.,positive
+347,37,The music was jarring and completely out of place with the narrative. Skip this one.,negative
+348,26,"Despite a big budget, the film felt hollow and emotionally empty.",negative
+349,35,The visual effects were jaw-dropping and the action sequences were phenomenal. Do not miss it!,positive
+350,19,Too long and too loud. Sensory overload with no substance underneath. Expected so much more.,negative
+351,22,The pacing was unbearably slow and the climax was a complete letdown. Not worth the ticket price.,negative
+352,28,Wasted two and a half hours of my life. The story made no sense whatsoever. Expected so much more.,negative
+353,27,Brilliant screenplay backed by exceptional acting. This movie deserves every award. Highly recommended!,positive
+354,32,The dialogue was cringe-worthy and the comedy fell completely flat.,negative
+355,6,The climax was rushed and unsatisfying after hours of tedious build-up. Very disappointing.,negative
+356,2,Absolutely loved every minute of this film! The performances were stellar and the direction was top-notch. A cinematic treat.,positive
+357,19,The visual effects were jaw-dropping and the action sequences were phenomenal. Take the whole family.,positive
+358,38,Overly melodramatic with scenes that dragged on way past their welcome.,negative
+359,37,Powerful storytelling with nuanced characters. This is what cinema should be. Highly recommended!,positive
+360,27,The chemistry between the lead actors was electric. A joy to watch throughout.,positive
+361,43,The director has created something truly special. This film will stand the test of time. Take the whole family.,positive
+362,41,Wasted two and a half hours of my life. The story made no sense whatsoever. Very disappointing.,negative
+363,33,Superb production values. The sets and costumes transported me to another era.,positive
+364,32,One of the best movies I have seen in years. The story was engaging from start to finish. A cinematic treat.,positive
+365,22,A perfect blend of emotion and entertainment. Cried and laughed in equal measure. A cinematic treat.,positive
+366,46,A cinematic masterpiece that redefines Indian filmmaking. Truly world-class. A cinematic treat.,positive
+367,20,A complete waste of a talented cast. The script let everyone down. Skip this one.,negative
+368,21,A complete waste of a talented cast. The script let everyone down.,negative
+369,47,Absolutely loved every minute of this film! The performances were stellar and the direction was top-notch. A cinematic treat.,positive
+370,17,Excessive CGI could not hide the weak story and thin characters.,negative
+371,11,A perfect blend of emotion and entertainment. Cried and laughed in equal measure. Highly recommended!,positive
+372,39,Yet another formulaic entertainer with zero originality or creativity. Expected so much more.,negative
+373,28,Gripping plot with unexpected twists. The climax was absolutely mind-blowing. A cinematic treat.,positive
+374,43,The lead performance was wooden and the supporting cast was forgettable.,negative
+375,1,The climax was rushed and unsatisfying after hours of tedious build-up. Very disappointing.,negative
+376,13,The cinematography was breathtaking and the music score perfectly complemented every scene. Watch it on the big screen.,positive
+377,29,The first half showed promise but the second half was an absolute disaster. Very disappointing.,negative
+378,38,The director has created something truly special. This film will stand the test of time.,positive
+379,40,The cinematography was breathtaking and the music score perfectly complemented every scene.,positive
+380,47,Superb production values. The sets and costumes transported me to another era. Watch it on the big screen.,positive
+381,9,The director has outdone themselves this time. Every frame is a work of art. Highly recommended!,positive
+382,9,The dialogue was cringe-worthy and the comedy fell completely flat. Expected so much more.,negative
+383,15,The director has outdone themselves this time. Every frame is a work of art. Watch it on the big screen.,positive
+384,49,Excessive CGI could not hide the weak story and thin characters. Skip this one.,negative
+385,33,The logic gaps were infuriating. The audience deserves better.,negative
+386,2,Brilliant screenplay backed by exceptional acting. This movie deserves every award. Highly recommended!,positive
+387,30,The lead performance was wooden and the supporting cast was forgettable.,negative
+388,19,The soundtrack is phenomenal and the choreography in the dance sequences is unmatched.,positive
+389,27,The script is tightly written with no dull moments. Bravo to the entire team. Highly recommended!,positive
+390,24,Absolutely loved every minute of this film! The performances were stellar and the direction was top-notch. Highly recommended!,positive
+391,4,A mess of a movie that could not decide what it wanted to be. Not worth the ticket price.,negative
+392,28,The climax was rushed and unsatisfying after hours of tedious build-up. Save your money.,negative
+393,12,The logic gaps were infuriating. The audience deserves better.,negative
+394,32,The script is tightly written with no dull moments. Bravo to the entire team. A cinematic treat.,positive
+395,8,A mess of a movie that could not decide what it wanted to be. Save your money.,negative
+396,48,The pacing was unbearably slow and the climax was a complete letdown. Save your money.,negative
+397,47,Hugely disappointing. The trailer promised much more than the movie delivered. Save your money.,negative
+398,49,Predictable from the first scene. No surprises and no emotional depth. Expected so much more.,negative
+399,23,The script is tightly written with no dull moments. Bravo to the entire team. Take the whole family.,positive
+400,46,A perfect blend of emotion and entertainment. Cried and laughed in equal measure. Do not miss it!,positive
+401,44,A cinematic masterpiece that redefines Indian filmmaking. Truly world-class. Watch it on the big screen.,positive
+402,20,Poor screenplay with cardboard characters who had zero development throughout. Expected so much more.,negative
+403,13,Predictable from the first scene. No surprises and no emotional depth.,negative
+404,37,The plot was full of holes and the acting felt forced and unconvincing.,negative
+405,5,The climax was rushed and unsatisfying after hours of tedious build-up.,negative
+406,18,Excessive CGI could not hide the weak story and thin characters. Not worth the ticket price.,negative
+407,29,The logic gaps were infuriating. The audience deserves better. Skip this one.,negative
+408,36,Hugely disappointing. The trailer promised much more than the movie delivered. Very disappointing.,negative
+409,44,Overly melodramatic with scenes that dragged on way past their welcome. Very disappointing.,negative
+410,29,One of the best movies I have seen in years. The story was engaging from start to finish. A cinematic treat.,positive
+411,22,One of the best movies I have seen in years. The story was engaging from start to finish. Take the whole family.,positive
+412,15,An incredible cinematic experience. The lead actor delivered a career-best performance. Do not miss it!,positive
+413,5,"Emotional, engaging, and thoroughly entertaining. A must-watch for the whole family. Watch it on the big screen.",positive
+414,39,"Despite a big budget, the film felt hollow and emotionally empty.",negative
+415,7,Gripping plot with unexpected twists. The climax was absolutely mind-blowing. Highly recommended!,positive
+416,41,Overly melodramatic with scenes that dragged on way past their welcome. Expected so much more.,negative
+417,20,A mess of a movie that could not decide what it wanted to be. Expected so much more.,negative
+418,11,I went in with low expectations but came out thoroughly impressed. A hidden gem! Do not miss it!,positive
+419,27,Powerful storytelling with nuanced characters. This is what cinema should be. Take the whole family.,positive
+420,39,Overly melodramatic with scenes that dragged on way past their welcome.,negative
+421,33,One of the best movies I have seen in years. The story was engaging from start to finish. Take the whole family.,positive
+422,8,"Despite a big budget, the film felt hollow and emotionally empty. Expected so much more.",negative
+423,27,Too long and too loud. Sensory overload with no substance underneath. Skip this one.,negative
+424,12,Outstanding film that leaves a lasting impression. Already planning to watch it again. Take the whole family.,positive
+425,35,A mess of a movie that could not decide what it wanted to be. Very disappointing.,negative
+426,20,Absolutely loved every minute of this film! The performances were stellar and the direction was top-notch. Do not miss it!,positive
+427,34,I went in with low expectations but came out thoroughly impressed. A hidden gem! Take the whole family.,positive
+428,4,The soundtrack is phenomenal and the choreography in the dance sequences is unmatched. A cinematic treat.,positive
+429,17,The logic gaps were infuriating. The audience deserves better. Expected so much more.,negative
+430,36,A complete waste of a talented cast. The script let everyone down.,negative
+431,24,Excessive CGI could not hide the weak story and thin characters. Save your money.,negative
+432,39,The chemistry between the lead actors was electric. A joy to watch throughout. A cinematic treat.,positive
+433,49,A mess of a movie that could not decide what it wanted to be. Not worth the ticket price.,negative
+434,6,Over-hyped and under-delivered. The special effects looked cheap and rushed. Not worth the ticket price.,negative
+435,7,A cinematic masterpiece that redefines Indian filmmaking. Truly world-class.,positive
+436,22,The first half showed promise but the second half was an absolute disaster. Very disappointing.,negative
+437,1,Yet another formulaic entertainer with zero originality or creativity. Expected so much more.,negative
+438,44,One of the best movies I have seen in years. The story was engaging from start to finish. Watch it on the big screen.,positive
+439,1,Powerful storytelling with nuanced characters. This is what cinema should be. Highly recommended!,positive
+440,45,Poor screenplay with cardboard characters who had zero development throughout. Expected so much more.,negative
+441,20,The director has outdone themselves this time. Every frame is a work of art. Watch it on the big screen.,positive
+442,18,A complete waste of a talented cast. The script let everyone down. Very disappointing.,negative
+443,36,Over-hyped and under-delivered. The special effects looked cheap and rushed. Not worth the ticket price.,negative
+444,27,The visual effects were jaw-dropping and the action sequences were phenomenal.,positive
+445,22,The climax was rushed and unsatisfying after hours of tedious build-up. Skip this one.,negative
+446,9,Wasted two and a half hours of my life. The story made no sense whatsoever. Not worth the ticket price.,negative
+447,30,The soundtrack is phenomenal and the choreography in the dance sequences is unmatched. Highly recommended!,positive
+448,14,Excessive CGI could not hide the weak story and thin characters. Very disappointing.,negative
+449,11,The lead performance was wooden and the supporting cast was forgettable. Not worth the ticket price.,negative
+450,7,A mess of a movie that could not decide what it wanted to be. Save your money.,negative
+451,35,An incredible cinematic experience. The lead actor delivered a career-best performance. Do not miss it!,positive
+452,35,The soundtrack is phenomenal and the choreography in the dance sequences is unmatched.,positive
+453,14,The logic gaps were infuriating. The audience deserves better. Expected so much more.,negative
+454,7,Gripping plot with unexpected twists. The climax was absolutely mind-blowing. Take the whole family.,positive
+455,7,The dialogue was cringe-worthy and the comedy fell completely flat. Save your money.,negative
+456,31,The soundtrack is phenomenal and the choreography in the dance sequences is unmatched. Watch it on the big screen.,positive
+457,2,The first half showed promise but the second half was an absolute disaster. Expected so much more.,negative
+458,29,Outstanding film that leaves a lasting impression. Already planning to watch it again. Take the whole family.,positive
+459,41,The dialogue was cringe-worthy and the comedy fell completely flat.,negative
+460,30,A perfect blend of emotion and entertainment. Cried and laughed in equal measure. Watch it on the big screen.,positive
+461,23,Outstanding film that leaves a lasting impression. Already planning to watch it again. A cinematic treat.,positive
+462,50,The director has created something truly special. This film will stand the test of time. Watch it on the big screen.,positive
+463,6,The director has outdone themselves this time. Every frame is a work of art.,positive
+464,18,Yet another formulaic entertainer with zero originality or creativity. Very disappointing.,negative
+465,44,Superb production values. The sets and costumes transported me to another era.,positive
+466,49,Wasted two and a half hours of my life. The story made no sense whatsoever.,negative
+467,35,One of the best movies I have seen in years. The story was engaging from start to finish. Do not miss it!,positive
+468,36,Over-hyped and under-delivered. The special effects looked cheap and rushed. Very disappointing.,negative
+469,30,A mess of a movie that could not decide what it wanted to be. Save your money.,negative
+470,27,Absolutely loved every minute of this film! The performances were stellar and the direction was top-notch.,positive
+471,3,The dialogue was cringe-worthy and the comedy fell completely flat. Expected so much more.,negative
+472,26,The logic gaps were infuriating. The audience deserves better. Skip this one.,negative
+473,12,The chemistry between the lead actors was electric. A joy to watch throughout. Highly recommended!,positive
+474,25,The first half showed promise but the second half was an absolute disaster. Skip this one.,negative
+475,18,Over-hyped and under-delivered. The special effects looked cheap and rushed. Save your money.,negative
+476,11,Over-hyped and under-delivered. The special effects looked cheap and rushed.,negative
+477,49,The logic gaps were infuriating. The audience deserves better. Skip this one.,negative
+478,39,Predictable from the first scene. No surprises and no emotional depth. Skip this one.,negative
+479,20,The climax was rushed and unsatisfying after hours of tedious build-up. Save your money.,negative
+480,47,Outstanding film that leaves a lasting impression. Already planning to watch it again. Take the whole family.,positive
+481,16,Gripping plot with unexpected twists. The climax was absolutely mind-blowing. Take the whole family.,positive
+482,40,The chemistry between the lead actors was electric. A joy to watch throughout.,positive
+483,33,A mess of a movie that could not decide what it wanted to be. Expected so much more.,negative
+484,48,Remarkable performances all around. The supporting cast was equally impressive. Take the whole family.,positive
+485,47,Wasted two and a half hours of my life. The story made no sense whatsoever. Skip this one.,negative
+486,45,A perfect blend of emotion and entertainment. Cried and laughed in equal measure. Do not miss it!,positive
+487,20,The music was jarring and completely out of place with the narrative.,negative
+488,11,Hugely disappointing. The trailer promised much more than the movie delivered. Expected so much more.,negative
+489,39,The soundtrack is phenomenal and the choreography in the dance sequences is unmatched. Highly recommended!,positive
+490,15,Excessive CGI could not hide the weak story and thin characters.,negative
+491,12,One of the best movies I have seen in years. The story was engaging from start to finish. Watch it on the big screen.,positive
+492,40,A mess of a movie that could not decide what it wanted to be. Not worth the ticket price.,negative
+493,23,Absolutely loved every minute of this film! The performances were stellar and the direction was top-notch. Watch it on the big screen.,positive
+494,46,The director has outdone themselves this time. Every frame is a work of art. Do not miss it!,positive
+495,18,The chemistry between the lead actors was electric. A joy to watch throughout. Watch it on the big screen.,positive
+496,21,The visual effects were jaw-dropping and the action sequences were phenomenal. A cinematic treat.,positive
+497,13,Hugely disappointing. The trailer promised much more than the movie delivered. Very disappointing.,negative
+498,31,The climax was rushed and unsatisfying after hours of tedious build-up. Very disappointing.,negative
+499,7,Poor screenplay with cardboard characters who had zero development throughout.,negative
+500,23,The cinematography was breathtaking and the music score perfectly complemented every scene. Take the whole family.,positive
